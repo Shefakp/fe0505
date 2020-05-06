@@ -8,8 +8,8 @@
 
 ## Sandbox
 
-- [ ] [CodePen](https://codepen.io/)
-- [ ] [CodeSandbox](https://codesandbox.io/)
+- [x] [CodePen](https://codepen.io/)
+- [x] [CodeSandbox](https://codesandbox.io/)
 
 ## Editor
 
