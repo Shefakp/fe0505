@@ -4,12 +4,12 @@
 
 - [x] [Github](https://github.com/)
 - [x] [Figma](https://www.figma.com)
-- [ ] [Codewars](https://www.codewars.com/)
+- [x] [Codewars](https://www.codewars.com/)
 
 ## Sandbox
 
-- [ ] [CodePen](https://codepen.io/)
-- [ ] [CodeSandbox](https://codesandbox.io/)
+- [x] [CodePen](https://codepen.io/)
+- [x] [CodeSandbox](https://codesandbox.io/)
 
 ## Editor
 
