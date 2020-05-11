@@ -12,14 +12,14 @@ git commit
 - [x] Ветвление в Git:
 
 ```sh
-git branch bugFix
-git checkout bugFix
+git checkout -b bugFix
 ```
 
 или возможен вариант с двумя командами
 
 ```sh
-
+git branch bugFix
+git checkout bugFix
 ```
 
 - [x] Ветки и слияния:
